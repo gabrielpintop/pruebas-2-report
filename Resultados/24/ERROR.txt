@@ -1,3 +1,0 @@
-unknown error: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: connect ECONNREFUSED 127.0.0.1:8200
---- Comparation: 16.png with 1.8272569444444446
---- Comparation: 20.png with 1.6411675347222223

@@ -1,7 +1,0 @@
---- Comparation: 10.png with 1.5979817708333333
---- Comparation: 11.png with 2.313151041666667
---- Comparation: 16.png with 1.8272569444444446
---- Comparation: 17.png with 1.8375651041666667
---- Comparation: 28.png with 1.818576388888889
---- Comparation: 30.png with 1.6018880208333333
---- Comparation: 8.png with 1.6092664930555556

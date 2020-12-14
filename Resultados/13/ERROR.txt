@@ -1,6 +1,0 @@
---- Comparation: 1.png with 27.28396267361111
---- Comparation: 16.png with 1.8272569444444446
---- Comparation: 2.png with 0.008897569444444444
---- Comparation: 25.png with 1.8128255208333333
---- Comparation: 3.png with 27.28396267361111
---- Comparation: 30.png with 3.9945746527777777
