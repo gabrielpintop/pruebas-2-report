@@ -1,0 +1,5 @@
+Error: Can't call click on element with selector "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.TabHost/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.ListView/android.widget.LinearLayout[2]/android.widget.TextView" because element wasn't found
+--- Comparation: 1.png with 27.28396267361111
+--- Comparation: 16.png with 1.8272569444444446
+--- Comparation: 21.png with 15.242187500000002
+--- Comparation: 8.png with 1.6092664930555556

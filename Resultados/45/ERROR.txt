@@ -1,0 +1,3 @@
+--- Comparation: 16.png with 1.8272569444444446
+--- Comparation: 20.png with 1.6763237847222223
+--- Comparation: 4.png with 41.31228298611111

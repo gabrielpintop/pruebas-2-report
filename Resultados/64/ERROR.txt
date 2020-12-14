@@ -1,0 +1,4 @@
+Error: Can't call click on element with selector "android=new UiSelector().resourceId("com.evancharlton.mileage:id/title")" because element wasn't found
+--- Comparation: 16.png with 1.8272569444444446
+--- Comparation: 29.png with 1.8016493055555554
+--- Comparation: 3.png with 27.28396267361111

@@ -1,0 +1,6 @@
+--- Comparation: 1.png with 0.04090711805555555
+--- Comparation: 16.png with 1.8272569444444446
+--- Comparation: 4.png with 0.004448784722222222
+--- Comparation: 5.png with 18.71625434027778
+--- Comparation: 6.png with 0.008897569444444444
+--- Comparation: 9.png with 1.5211588541666665
